@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject.ui.home
+package com.jonathan.estok.ui.home
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

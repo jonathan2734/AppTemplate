@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject
+package com.jonathan.estok
 
 import org.junit.Test
 
